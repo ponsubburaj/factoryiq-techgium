@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/.venv/
+__pycache__/
+*.pyc
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Runtime data
+backend/data/documents.json
+backend/data/audit_log.json
+backend/knowledge/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
